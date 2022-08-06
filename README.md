@@ -1,4 +1,4 @@
-# Graphql Jwt Auth
+# GraphQl Jwt Auth
 
 ## Technologies used
 
